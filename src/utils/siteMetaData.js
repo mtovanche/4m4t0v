@@ -14,8 +14,8 @@ const siteMetadata = {
     twitter: 'https://twitter.com/code_bucks',
     facebook: 'https://facebook.com',
     youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
+    linkedin: 'www.linkedin.com/in/mauricio-zeferino-tovanche-flores-811534a8',
+    //dribbble: 'https://www.dribbble.com',
     locale: 'en-US',
   }
   
